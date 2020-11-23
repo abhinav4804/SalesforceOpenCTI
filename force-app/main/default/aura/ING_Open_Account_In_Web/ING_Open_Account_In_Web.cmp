@@ -1,0 +1,9 @@
+<aura:component implements="force:lightningQuickAction,force:hasRecordId">
+    <c:ingOpenAccountInWeb recordId="{!v.recordId}" onclose="{!c.closeMethodInAuraController}"/>
+
+    <aura:html tag="style">
+        .closeIcon {
+            display: none !important;
+        }
+    </aura:html>
+</aura:component>

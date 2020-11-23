@@ -1,0 +1,15 @@
+{
+  "status": 0,
+  "result": {
+    "createdById": "00509000001TQn2AAG",
+    "createdByName": "Abhinav Sharma",
+    "createdDate": "2020-11-18T22:04:05.000Z",
+    "fileName": "callCenters/SoftphoneIntegration.callCenter",
+    "fullName": "SoftphoneIntegration",
+    "id": "04v090000008OzNAAU",
+    "lastModifiedById": "00509000001TQn2AAG",
+    "lastModifiedByName": "Abhinav Sharma",
+    "lastModifiedDate": "2020-11-18T22:04:05.000Z",
+    "type": "CallCenter"
+  }
+}
